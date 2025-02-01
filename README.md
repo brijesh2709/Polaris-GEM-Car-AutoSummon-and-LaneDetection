@@ -12,14 +12,9 @@ Implementations:
 
 ![image](https://github.com/user-attachments/assets/7d60a845-2e16-4009-ba98-18643983bdef)
 
-![image](https://github.com/user-attachments/assets/d59435dd-c71c-450a-a9ab-2a9a9e6cbe6f)
-
 ### Results
 #### Simulator Demo
-<figure class="video_container">
-  <iframe src="assets/Loop Final Video.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+![video](https://github.com/user-attachments/assets/d59435dd-c71c-450a-a9ab-2a9a9e6cbe6f)
 
 #### Real-Time Demo
 
