@@ -7,6 +7,9 @@ Implementations:
   - Auto Summon
   - Lane Detection and following
 
+![Screenshot 2025-02-01 131721](https://github.com/user-attachments/assets/597b2e64-18fa-44af-98b1-87e54af53d81)
+
+
 ## Auto Summon
 ### Block Diagram
 
