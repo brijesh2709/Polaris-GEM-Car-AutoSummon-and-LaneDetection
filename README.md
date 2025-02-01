@@ -16,6 +16,10 @@ Implementations:
 
 ### Results
 #### Simulator Demo
+<figure class="video_container">
+  <iframe src="assets/Loop Final Video.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 #### Real-Time Demo
 
