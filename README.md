@@ -14,8 +14,10 @@ Implementations:
 
 ### Results
 #### Simulator Demo
+[![Watch the video](https://img.youtube.com/vi/BVNZcNHtCc0/0.jpg)](https://www.youtube.com/watch?v=BVNZcNHtCc0)
 
 #### Real-Time Demo
+[![Watch the video](https://img.youtube.com/vi/aSEJ_T8XEYM/0.jpg)](https://www.youtube.com/watch?v=aSEJ_T8XEYM)
 
 ## Lane Detection
 ### Block Diagram
