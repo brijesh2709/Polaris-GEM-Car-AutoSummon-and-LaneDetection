@@ -14,7 +14,6 @@ Implementations:
 
 ### Results
 #### Simulator Demo
-![▶ Watch Video](https://github.com/brijesh2709/Polaris-GEM-Car-AutoSummon-and-LaneDetection/raw/main/assets/Loop%20Final%20Video.mp4)
 
 #### Real-Time Demo
 
@@ -24,6 +23,5 @@ Implementations:
 ![image](https://github.com/user-attachments/assets/e37fbbaa-aaed-4d8c-bd76-8cd184466ac5)
 
 ### Results
-#### Simulator Demo
+[![Watch the video](https://img.youtube.com/vi/VK6IpG5q26Q/0.jpg)](https://www.youtube.com/watch?v=VK6IpG5q26Q)
 
-#### Real-Time Demo
